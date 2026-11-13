@@ -1,0 +1,6 @@
+{
+  "gamerule.mobAItickRateMultiplier": "Mob AI tick speed",
+  "gamerule.mobMoveSpeedMultiplier": "Mob movement speed multiplier",
+  "gamerule.mobActionSpeedMultiplier": "Mob action speed multiplier",
+  "gamerule.mobActionSpeedMultiplier.description": "Mob actions are things like skeletons pulling their bows or creepers exploding"
+}

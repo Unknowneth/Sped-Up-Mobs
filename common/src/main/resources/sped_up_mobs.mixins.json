@@ -1,0 +1,21 @@
+{
+  "required": true,
+  "package": "com.notunanancyowen.sped.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "minVersion": "0.8",
+  "client": [
+  ],
+  "mixins": [
+    "BrainMixin",
+    "CreeperMixin",
+    "EntityMixin",
+    "LivingEntityMixin",
+    "LongJumpMixin",
+    "MobMixin",
+    "MonsterMixin",
+    "PathfinderMobMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
